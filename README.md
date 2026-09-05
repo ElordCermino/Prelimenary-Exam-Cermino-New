@@ -1,6 +1,8 @@
-| <div align="center">**Hi! I'am Joe**</div> |
-| :---: |
-| <div align="center">![Unicorn](https://media.tenor.com/spYNIQB86MMAAAAM/%E6%A9%9F%E5%8B%95%E6%88%A6%E5%A3%AB%E3%82%AC%E3%83%B3%E3%83%80uc-mobile-suit-gundam-unicorn.gif) |
+<p align="center">
+  <b>Hi! I'am Joe</b><br><br>
+  <img src="[https://example.com](https://media.tenor.com/spYNIQB86MMAAAAM/%E6%A9%9F%E5%8B%95%E6%88%A6%E5%A3%AB%E3%82%AC%E3%83%B3%E3%83%80uc-mobile-suit-gundam-unicorn.gif)" alt="Unicorn">
+</p>
+
 
 # Preliminary Exam — Cermino
 > Present and elaborate on each of the three activities completed during the Prelim period. For each activity, explain what you created, why you came up with the concept, and how you developed your final output.
