@@ -1,6 +1,8 @@
-# Preliminary Exam — Cermino
+![Alt text]([path-to-your-gif.gif](https://www.pinterest.com/pin/4925880835016867/))
 
-Present and elaborate on each of the three activities completed during the Prelim period. For each activity, explain what you created, why you came up with the concept, and how you developed your final output.
+
+# Preliminary Exam — Cermino
+> Present and elaborate on each of the three activities completed during the Prelim period. For each activity, explain what you created, why you came up with the concept, and how you developed your final output.
 
 ---
 
