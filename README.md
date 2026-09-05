@@ -6,7 +6,7 @@ Present and elaborate on each of the three activities completed during the Preli
 
 ## Activities
 
-> 👆 Click the blue activity links in the table below to navigate to each activity.
+> Click the blue activity links in the table below to navigate to each activity.
 
 | # | Activity | Topic |
 |---|----------|-------|
