@@ -1,4 +1,4 @@
-![Alt text]([path-to-your-gif.gif](https://www.pinterest.com/pin/4925880835016867/))
+![Alt text](https://media.tenor.com/spYNIQB86MMAAAAM/%E6%A9%9F%E5%8B%95%E6%88%A6%E5%A3%AB%E3%82%AC%E3%83%B3%E3%83%80uc-mobile-suit-gundam-unicorn.gif)
 
 
 # Preliminary Exam — Cermino
