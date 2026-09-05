@@ -1,6 +1,6 @@
-| Hi! I'am Joe |
+| <div align="center">**Hi! I'am Joe**</div> |
 | :---: |
-| ![Unicorn](https://media.tenor.com/spYNIQB86MMAAAAM/%E6%A9%9F%E5%8B%95%E6%88%A6%E5%A3%AB%E3%82%AC%E3%83%B3%E3%83%80uc-mobile-suit-gundam-unicorn.gif) |
+| <div align="center">![Unicorn](https://media.tenor.com/spYNIQB86MMAAAAM/%E6%A9%9F%E5%8B%95%E6%88%A6%E5%A3%AB%E3%82%AC%E3%83%B3%E3%83%80uc-mobile-suit-gundam-unicorn.gif) |
 
 # Preliminary Exam — Cermino
 > Present and elaborate on each of the three activities completed during the Prelim period. For each activity, explain what you created, why you came up with the concept, and how you developed your final output.
